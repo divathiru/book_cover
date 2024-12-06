@@ -110,7 +110,7 @@ Publish the website in the LocalHost.
 <body>
     <div class="book-cover">
         <!-- Replace src with a valid image URL -->
-        <img src="https://blackhattalent.com/wp-content/uploads/2023/08/robinsharma.jpg" alt="Robin Sharma">
+        <img src="https://blackhattalent.com/wp-content/uploads/2023/08/robinslalalalharma.jpg" alt="Robin Sharma">
         <div class="title">The Leader Within</div>
         <div class="decorative-line"></div>
         <div class="subtitle">Unlock Your True Potential</div>
